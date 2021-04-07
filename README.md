@@ -1,3 +1,11 @@
 # Razorpay-Payment-Integration
 
-This is a RazorPay Payment Gateway Integration source code which works properly and it is a test model.
+Payment Gateway Integration is developed using HTML,CSS and JavaScript. For payment gateway,Razorpay is used.
+
+For demo card use
+
+Card No:- 4111 1111 1111 1111
+
+cvv:- Any
+
+Validity:- Any
